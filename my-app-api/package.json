@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "farm stick data api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "faker": "^6.6.6"
+  }
+}

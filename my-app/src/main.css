@@ -1,0 +1,15 @@
+.head
+{
+    text-align: center;
+    color: #ebf3e6;
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d4c42;
+}
+.head>div{
+  margin: 0.5rem 1rem;
+}
